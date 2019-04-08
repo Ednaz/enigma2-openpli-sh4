@@ -1,3 +1,4 @@
+# Russian translations for Enigma2.
 msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
